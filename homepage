@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>final project</title>
+    <style>
+      img {
+        max-width: 30%;
+      }
+
+    </style>
+<link rel="stylesheet" href="./final project index.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+    </head>
+    <body style="background-color:Lavender;">
+    <div class="container">
+    <p>
+
+
+
+  <div id="header"> <h1 align="center"> <font face="Lucida Handwriting"> Allianna Schneider </h1>
+    <section id="als413">
+      <header>
+				<h2 align="center"> <font face="Lucida Handwriting"> Hollistic Health Coach </font> </h2>
+        <h3 align="center"> &#9774; &#9996; &#10163;  </h3>
+      </header> </div>
+
+As noted, I am a student. I would not be where I am today without
+the health problems I was faced with in the past. As much as one
+would believe a near death experience would be a curse, I believe
+it was a blessing in disguise. If it wasn’t for the struggles I went
+through with my health, I wouldn’t be so passionate about wanting to
+help others. I work as a paramedic at Woodland Hills EMS, which is
+located in the Eastern Suburbs of Pittsburgh. I also work as a
+paramedic at St. Margaret’s Hospital in the Emergency Department.
+I really enjoy both jobs; however I enjoy health coaching the most.
+I get the most self-satisfaction out of helping others find their
+own inner healer within them.
+		</font>
+		</div>
+		    </section>
+		  </body>
+		  </html>
+		</div>
